@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268778758099",
+    "firebase_url": "https://whisper-92279.firebaseio.com",
+    "project_id": "whisper-92279",
+    "storage_bucket": "whisper-92279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268778758099:android:09e85950c52205ab761926",
+        "android_client_info": {
+          "package_name": "id.ac.umn.whisper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268778758099-0920o18947llbkd9ta5j3v5b17jtiqeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7juFS_FhOiCjcpZPTAP_xtIfZZAF0jtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268778758099-0920o18947llbkd9ta5j3v5b17jtiqeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
